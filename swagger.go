@@ -8,8 +8,8 @@ import (
 
 	"github.com/ghodss/yaml"
 	"github.com/labstack/echo/v4"
-	swaggerFiles "github.com/swaggo/files/v2"
-	"github.com/swaggo/swag"
+	"github.com/swaggo/swag/v2"
+	swaggerFiles "github.com/uvcyber/files/v2"
 )
 
 // Config stores echoSwagger configuration variables.
